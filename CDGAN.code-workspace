@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../Downloads/archive (3)"
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Dark Magic Dracula",
+		"editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace"
+	}
+}
